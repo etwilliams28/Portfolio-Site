@@ -1,3 +1,5 @@
+
+
 body {
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,7 +15,6 @@ body {
 
 
 /* header */
-
 
 
 
@@ -96,7 +97,7 @@ body {
 .lastRow {
   display: flex;
   text-align: center;
-  
+
 
 }
 
@@ -122,4 +123,27 @@ body {
   color: #EB5757;
 
 
+}
+
+@media (max-width: 768px) {
+
+  .col-12 {
+    font-size: 5rem;
+  }
+
+  .buttonRow {
+    display: inline-block;
+  }
+
+  .circle {
+    margin-top: 0%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .button {
+    height: 44px;
+  }
 }
