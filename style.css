@@ -94,11 +94,16 @@ body {
 }
 
 .lastRow {
+  display: flex;
   text-align: center;
-  right: 5%;
+  
+
 }
 
 .buttonRow {
+  display: flex;
+  text-align: center;
+
   margin-top: 5rem;
 }
 
