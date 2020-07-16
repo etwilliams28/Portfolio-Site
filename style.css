@@ -1,0 +1,120 @@
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+/* Nav container */
+
+.nav-container {
+  padding: 5px 15px;
+}
+
+
+/* header */
+
+
+
+
+.col-12 {
+  position: absolute;
+  text-align: center;
+  width: 591px;
+  height: 280px;
+  top: 100px;
+  padding: 0px 5px;
+}
+
+.col {
+  width: 1162px;
+  height: 89px;
+  top: 500px;
+}
+
+.sub-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+
+  color: #000000;
+}
+
+.title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 78px;
+  line-height: 91px;
+  text-align: center;
+
+  color: #000000;
+
+}
+
+.header-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: center;
+
+  color: #000000;
+
+}
+
+.circle {
+  margin-top: 2rem;
+}
+
+.seperator {
+  padding-top: 2rem;
+}
+
+
+
+.button {
+  width: 242px;
+  height: 89px;
+  background: #FDD20E;
+  border-radius: 56px;
+  margin-left: 1rem;
+  border-color: white;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+
+  color: #000000;
+}
+
+.lastRow {
+  text-align: center;
+  right: 5%;
+}
+
+.buttonRow {
+  margin-top: 5rem;
+}
+
+.link {
+  display: inline-flex;
+  margin-left: 4rem;
+  margin-top: 2rem;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+
+  color: #EB5757;
+
+
+}

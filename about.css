@@ -1,0 +1,103 @@
+
+/* Text */
+
+h2 {
+  width: 220px;
+  height: 53px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 53px;
+  /* identical to box height */
+
+
+  color: #000000;
+
+}
+
+p{
+  width: 550px;
+  height: 103px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+}
+
+
+
+.nav-container {
+  padding: 5px 15px;
+}
+
+.container {
+  position: relative;
+}
+
+.first {
+  position: absolute;
+  text-align: center;
+  width: 591px;
+  height: 280px;
+  top: 200px;
+  padding: 0px 5px;
+
+}
+
+.myName {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 53px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.mid-section {
+  position: relative;
+  width: 1357px;
+  height: 514px;
+  left: 15px;
+  top: 800px;
+}
+
+.supInfo {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+}
+
+.second-section {
+  position: relative;
+  width: 1867.53px;
+  height: 1112.81px;
+  left: 110px;
+  top: 1000px;
+}
+
+.webDev {
+  position: absolute;
+  top: 50%;
+  right: 30%;
+}
+
+.codeInfo {
+  position: absolute;
+  top: 50%;
+  right: 30%;
+
+}
+
+.moonman {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
