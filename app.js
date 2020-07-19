@@ -2,7 +2,7 @@
 
 
 var dot = document.querySelector(".circle");
-var backlines = document.querySelector("body:);
+var backlines = document.querySelector("body");
 
 var tlBallBounce= new TimelineMax({repeat: -1});
 var tlBallInit = new TimelineMax();
