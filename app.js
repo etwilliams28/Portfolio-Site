@@ -15,4 +15,5 @@ tlBallBounce.
 tlBallInit.set(dot,{transformOrigin:'50% 50%', x:0}).
             from(dot,.6,{ scale:0, ease: Back.easeOut.config(1.5)});
 
-TweenLite.to(backlines, 2, {rotation:90, transformOrigin:"left 50%"});
+
+tlBallInit.to(backlines, 1, {rotation:360, ease:Linear.easeNone, repeat:-1});
