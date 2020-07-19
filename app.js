@@ -3,7 +3,7 @@
 
 var dot = document.querySelector(".circle");
 var bodyy = document.querySelector("body");
-var backlines = bodyy.style.background-image;
+var backlines = getComputedStyle(bodyy);
 
 var tlBallBounce= new TimelineMax({repeat: -1});
 var tlBallInit = new TimelineMax();
